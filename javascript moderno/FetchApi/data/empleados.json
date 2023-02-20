@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Sam Minyety",
+        "empresa": "Bucle Calidad Continua",
+        "trabajo": "Desarrollador Backend"
+    },
+    {
+        "id": 2,
+        "nombre": "Rainier Minyety",
+        "empresa": "Bucle Calidad Continua",
+        "trabajo": "Cientifico de datos"
+    },
+    {
+        "id": 3,
+        "nombre": "Adriel Minyety",
+        "empresa": "Bucle Calidad Continua",
+        "trabajo": "Desarrollador Frontend"
+    }
+]
